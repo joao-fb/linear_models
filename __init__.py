@@ -1,1 +1,2 @@
-from linear_regression import LinearRegression
+from src.linear_regression import LinearRegression
+from src.logistic_regression import LogisticRegression
